@@ -1,0 +1,11 @@
+// Override variables BEFORE importing Bootstrap
+$primary: #5E3BEE;
+$secondary: #6c757d;
+
+$btn-primary-color: #ffffff;   // text color for .btn-primary
+$btn-secondary-color: #ffffff; // text color for .btn-secondary
+$btn-color: #ffffff; // text color for all buttons
+
+$font-family-sans-serif: 'Inter', sans-serif;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
