@@ -11907,6 +11907,7 @@ textarea.form-control:focus {
 }
 .site-footer .footer-nav li {
   margin: 0;
+  color: black;
 }
 .site-footer .footer-social {
   list-style: none;

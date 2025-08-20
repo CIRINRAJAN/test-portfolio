@@ -31,7 +31,7 @@ contactForm.addEventListener("submit", function (event) {
 
 
   // Send email using FormSubmit
-  fetch("https://formsubmit.co/9d09b1cf14a01a893ca167228b6bba13", {
+  fetch("https://formsubmit.co/cirinrajan@gmail.com", {
     method: "POST",
     headers: {
       Accept: "application/json",
